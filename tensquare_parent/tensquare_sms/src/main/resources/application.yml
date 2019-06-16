@@ -1,0 +1,9 @@
+spring:
+  rabbitmq:
+    host: 192.168.40.130
+aliyun:
+  sms:
+    accessKeyId: LTAIKwFq9lPHwLvh
+    accessKeySecret: 打死也不告诉你
+    template_code: SMS_149385475
+    sign_name: 传智播客
